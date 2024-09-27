@@ -1,0 +1,617 @@
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.AssemblyReference.cache
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\obj\Debug\QLDIEM.HomeForm.resources
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe.licenses
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CopyComplete
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.HomeForm.resources
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.AssemblyReference.cache
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.HomeForm.resources
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe.licenses
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CopyComplete
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KhoaForm.resources
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Guna.UI2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.ChuyenNganhForm.resources
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.GiaoVienForm.resources
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.LopForm.resources
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.MonHocForm.resources
+C:\Users\VKDuy\Downloads\Documents\Quan_ly_diem\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.SinhVienForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Guna.UI2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.AssemblyReference.cache
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.ChuyenNganhForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemDanhForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.GiaoVienForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.HomeForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KhoaForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.LopForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.MonHocForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.SinhVienForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe.licenses
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CopyComplete
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemQuaTrinhForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemThiForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KetQuaHocTapForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.InBangDiemForm.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportBangDiem.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocBong.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocLai.resources
+C:\Users\VKDuy\Downloads\Documents\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienThiLai.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Guna.UI2.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.AssemblyReference.cache
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.ChuyenNganhForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemDanhForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemQuaTrinhForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemThiForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.GiaoVienForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.HomeForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.InBangDiemForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KetQuaHocTapForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KhoaForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.LopForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.MonHocForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.SinhVienForm.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportBangDiem.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocBong.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocLai.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienThiLai.resources
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe.licenses
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CopyComplete
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+D:\Project\QL-Diem-Sinh-Vien-UNETI\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\Guna.UI2.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.AssemblyReference.cache
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.ChuyenNganhForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemDanhForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemQuaTrinhForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemThiForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.GiaoVienForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.HomeForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.InBangDiemForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KetQuaHocTapForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KhoaForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.LopForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.MonHocForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.SinhVienForm.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportBangDiem.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocBong.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocLai.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienThiLai.resources
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe.licenses
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CopyComplete
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+D:\Năm 3\Kì 1\Đồ Án 1\QL-Diem-Sinh-Vien-UNETI-goc\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\Guna.UI2.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\DoAn\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.AssemblyReference.cache
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.ChuyenNganhForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemDanhForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemQuaTrinhForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemThiForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.GiaoVienForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.HomeForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.InBangDiemForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KetQuaHocTapForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KhoaForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.LopForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.MonHocForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.SinhVienForm.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportBangDiem.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocBong.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocLai.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienThiLai.resources
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe.licenses
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CopyComplete
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+D:\DoAn\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\Guna.UI2.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\BTL\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.AssemblyReference.cache
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.ChuyenNganhForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemDanhForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemQuaTrinhForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemThiForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.GiaoVienForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.HomeForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.InBangDiemForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KetQuaHocTapForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KhoaForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.LopForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.MonHocForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.SinhVienForm.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportBangDiem.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocBong.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocLai.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienThiLai.resources
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe.licenses
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CopyComplete
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+D:\BTL\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe.config
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\QLDIEM.exe
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\QLDIEM.pdb
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\Guna.UI2.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Data.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.AssemblyReference.cache
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.ChuyenNganhForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemDanhForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemQuaTrinhForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.DiemThiForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.GiaoVienForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.HomeForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.InBangDiemForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KetQuaHocTapForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.KhoaForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.LopForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.MonHocForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Forms.SinhVienForm.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Properties.Resources.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportBangDiem.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocBong.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienHocLai.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.Reports.ReportSinhVienThiLai.resources
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.GenerateResource.cache
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe.licenses
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CoreCompileInputs.cache
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.csproj.CopyComplete
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.exe
+D:\BTL\BTLDotNet\QLDIEM\QLDIEM\obj\Debug\QLDIEM.pdb
